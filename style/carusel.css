@@ -1,0 +1,6 @@
+.bx-pager bx-default-pager{
+    /* vertical-align: baseline; */
+   display: inline-block;
+   display: flex;
+   flex-direction: row;   
+}
